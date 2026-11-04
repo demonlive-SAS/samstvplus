@@ -1,6 +1,6 @@
 # Samsung TV Plus for TiviMate
 
-Generated on: 2026-10-24 02:18:50 UTC
+Generated on: 2026-11-04 00:45:54 UTC
 
 ## Files
 
@@ -23,7 +23,8 @@ Generated on: 2026-10-24 02:18:50 UTC
 
 This playlist was generated with the following settings:
 - Regions: all
-- Groups: All
+- Source groups filter: All
+- Category (group-title) for all channels: Fast Samsung
 - Include DRM: True
 - Starting Channel Number: 1
 - Sort By: chno
