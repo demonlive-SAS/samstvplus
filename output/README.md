@@ -1,6 +1,6 @@
 # Samsung TV Plus for TiviMate
 
-Generated on: 2026-11-22 09:37:25 UTC
+Generated on: 2026-11-23 10:35:02 UTC
 
 ## Files
 
